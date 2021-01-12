@@ -1,2 +1,5 @@
-# Titanic Dataset Challenge
- 
+# Kaggle Titanic Challenge
+
+# Motivation
+
+# Screenshots
